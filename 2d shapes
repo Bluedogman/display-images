@@ -1,1 +1,7 @@
-fghcvghfghfghfghfghfgh
+import math
+
+def circle(radius) = 5
+
+
+
+
